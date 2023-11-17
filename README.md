@@ -1,7 +1,6 @@
 # AlgTourGuide-TravelingApp
 
-
-
+![Capture](https://github.com/daha40/AlgTourGuide-TravelingApp/assets/64675525/da6f1e78-7373-4aa7-b8b6-1cbf378528ba)
 
 
 
