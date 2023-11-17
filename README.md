@@ -1,4 +1,13 @@
-# Travel-App-React-Native
+# AlgTourGuide-TravelingApp
+
+
+
+
+
+
+
+
+AlgTourGuide-TravelingApp is an innovative project that aims to provide travelers with a comprehensive guide to exploring Algeria's scenic wonders. Through its user-friendly interface, users can access information about costs, weather, and captivating images of tourist spots, making their travel experience effortless. Built with Tailwind CSS and multiple UI libraries, AlgTourGuide-TravelingApp offers a seamless user experience, inviting users to embark on their journey with ease.
 
 ## Get Started
 
