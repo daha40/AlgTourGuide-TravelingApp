@@ -14,7 +14,9 @@ AlgTourGuide-TravelingApp is an innovative project that aims to provide traveler
 
 
 
+
 ![dsfsdfsd](https://github.com/daha40/AlgTourGuide-TravelingApp/assets/64675525/a3aaee42-e181-4402-a4a0-4401f5cb5e9b)
+
 
 
 
