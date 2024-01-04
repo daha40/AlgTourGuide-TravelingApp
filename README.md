@@ -9,6 +9,7 @@
 AlgTourGuide-TravelingApp is an innovative project that aims to provide travelers with a comprehensive guide to exploring Algeria's scenic wonders. Through its user-friendly interface, users can access information about costs, weather, and captivating images of tourist spots, making their travel experience effortless. Built with Tailwind CSS and multiple UI libraries, AlgTourGuide-TravelingApp offers a seamless user experience, inviting users to embark on their journey with ease.
 
 
+
 ![fdsfdsfsd](https://github.com/daha40/AlgTourGuide-TravelingApp/assets/64675525/ca605cfb-95ca-491d-a98c-d9a4144ac727)
 
 
